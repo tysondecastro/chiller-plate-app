@@ -8,7 +8,7 @@
 
 html {
     font-family: 'Montserrat', sans-serif !important;
-    background: url(../images/background.JPEG) no-repeat center center fixed;
+    background-color: green;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -69,7 +69,8 @@ p {
 
 .welcomeBlock {
   padding: 30px 50px !important;
-  margin: 10px !important;
+  margin-right: 10px !important;
+  margin-left: 10px;
 }
 
 .pullUp{
