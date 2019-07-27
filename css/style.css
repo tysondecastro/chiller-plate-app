@@ -68,8 +68,8 @@ p {
 }
 
 .welcomeBlock {
-  padding: 30px 50px 30px !important;
-  margin: 40px !important;
+  padding: 30px 50px !important;
+  margin: 10px !important;
 }
 
 .contentCont {
@@ -83,7 +83,7 @@ p {
 }
 
 #index-banner {
-    height: 200vh;
+    height: 300vh;
 }
 
 .icon-block {
@@ -99,8 +99,9 @@ footer.page-footer {
 }
 
 .formContainer {
-    height: 65vh;
+    height: 40px;
     margin: 50px auto;
+    margin-top: 10px;
 }
 
 .card {
@@ -205,4 +206,8 @@ svg {
 
 .video {
   height: 50vh
+}
+
+.liftUp{
+  margin-bottom: 10px;
 }
