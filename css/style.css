@@ -28,7 +28,7 @@ nav {
 
 .header-stuff {
     transform: translate(-50%, -50%);
-    top: 25%;
+    top: 60vh;
     left: 50%;
     position: absolute;
 }
@@ -54,7 +54,7 @@ p {
 @media only screen and (max-width: 992px) {
     /*  .parallax-container .section {
         position: absolute;
-        top: 40%;
+        top: 20%;
       }*/
     /*  #index-banner .section {
         top: 10%;
@@ -72,6 +72,10 @@ p {
   margin: 10px !important;
 }
 
+.pullUp{
+  margin-top: 85vh;
+}
+
 .contentCont {
   width: 100% !important;
   margin-left:auto;
@@ -79,13 +83,12 @@ p {
 }
 
 .contentRow {
-    margin-top: 100vh;
+    margin-top: 25vh;
 }
 
 #index-banner {
-    height: 300vh;
+    height: 800vh;
 }
-
 .icon-block {
     padding: 0 15px;
 }
