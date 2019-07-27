@@ -16,7 +16,6 @@ const HOTJAR_ID = 1419537;
 	}); // end of document ready
 })(jQuery); // end of jQuery name space
 
-
 (function(h,o,t,j,a,r){
 	h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
 	h._hjSettings={hjid:HOTJAR_ID,hjsv:6};
