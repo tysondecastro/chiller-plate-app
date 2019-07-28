@@ -8,7 +8,7 @@
 
 html {
     font-family: 'Montserrat', sans-serif !important;
-    background-color: #EAC435;
+    background-color: #EDCE59;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -229,4 +229,14 @@ svg {
 
 #button{
   margin: 0px 47%;
+}
+
+.blocka{
+  background-color: #5BC0EB;
+  text-align: center;
+}
+
+.titlea{
+  background-color: #643173;
+  padding: 20px;
 }
