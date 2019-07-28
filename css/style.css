@@ -100,7 +100,7 @@ p {
 }
 
 #index-banner {
-    height: 800vh;
+    height: 500vh;
 }
 .icon-block {
     padding: 0 15px;
@@ -228,6 +228,6 @@ svg {
 }
 
 #button{
-  padding: 25px 45%;
-  margin: 2.5%;
+  margin: 0px 47%;
+  padding: 10px;
 }
