@@ -226,3 +226,8 @@ svg {
 .liftUp{
   margin-bottom: 10px;
 }
+
+#button{
+  padding: 25px 45%;
+  margin: 2.5%;
+}
