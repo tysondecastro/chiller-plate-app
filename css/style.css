@@ -19,6 +19,14 @@ html {
   background-color: #F0ECC9;
 }
 
+#index-banner-mobile{
+  height: 400vh;
+}
+
+#pulldown{
+  margin-top: 100vh;
+}
+
 p{
   color: #221D23;
 }
