@@ -1,5 +1,5 @@
 const G_TRACKING_ID = 'UA-144724547-1';
-const HOTJAR_ID = 1419537;
+const HOTJAR_ID = 1420573;
 
 (function($){
 	$(function(){
