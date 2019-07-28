@@ -1,4 +1,4 @@
-const G_TRACKING_ID = 'TRACKING ID';
+const G_TRACKING_ID = 'UA-144724547-1';
 const HOTJAR_ID = 1419537;
 
 (function($){
@@ -7,7 +7,6 @@ const HOTJAR_ID = 1419537;
 		$('.sidenav').sidenav();
 		$('.parallax').parallax();
 
-		<!-- Global site tag (gtag.js) - Google Analytics -->
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());

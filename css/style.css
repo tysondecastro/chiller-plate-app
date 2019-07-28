@@ -8,7 +8,7 @@
 
 html {
     font-family: 'Montserrat', sans-serif !important;
-    background-color: #EDCE59;
+    background-color: #F0ECC9;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -82,6 +82,7 @@ p {
   padding: 30px 50px !important;
   margin-right: 10px !important;
   margin-left: 10px;
+  background-color: white;
 }
 
 .pullUp{
