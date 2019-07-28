@@ -75,7 +75,7 @@ p {
 
 .pullUp{
   margin-top: 85vh;
-  padding: 20px 30px 40px 40px;
+  padding: 20px 30px 30px 40px;
 }
 
 .contentCont {
@@ -104,7 +104,6 @@ footer.page-footer {
 }
 
 .formContainer {
-    height: 40px;
     margin: 50px auto;
     margin-top: 10px;
 }
