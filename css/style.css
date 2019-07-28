@@ -20,11 +20,11 @@ html {
 }
 
 #index-banner-mobile{
-  height: 400vh;
+  height: 600vh;
 }
 
 #pulldown{
-  margin-top: 100vh;
+  margin-top: 205vh;
 }
 
 p{
@@ -90,6 +90,10 @@ p {
   padding: 30px 50px !important;
   margin-right: 10px !important;
   margin-left: 10px;
+}
+
+.welcomeBlock-mobile{
+  width: 100%
 }
 
 .pullUp{
