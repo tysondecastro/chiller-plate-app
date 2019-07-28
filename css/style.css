@@ -8,13 +8,24 @@
 
 html {
     font-family: 'Montserrat', sans-serif !important;
-    background-color: green;
+    background-color: #EAC435;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 
+.aboutpg{
+  background-color: #EAC435;
+}
+
+p{
+  color: #221D23;
+}
+
+h1{
+  color: #221D23;
+}
 
 nav ul a,
 nav .brand-logo {
