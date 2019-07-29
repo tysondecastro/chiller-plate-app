@@ -252,3 +252,9 @@ svg {
   background-color: #643173;
   padding: 20px;
 }
+
+.downloadButton{
+    color: white;
+    background-color: #5BC0EB;
+    margin-top: 2px;
+}
