@@ -8,7 +8,7 @@
 
 html {
     font-family: 'Montserrat', sans-serif !important;
-    background-color: #F0ECC9;
+    background-color:white;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -250,17 +250,17 @@ svg {
 }
 
 .blocka{
-  background-color: #5BC0EB;
+  background-color: #058789;
   text-align: center;
 }
 
 .titlea{
-  background-color: #643173;
+  background-color: #D54B1A;
   padding: 20px;
 }
 
 .downloadButton{
     color: white;
-    background-color: #5BC0EB;
+    background-color: #D54B1A;
     margin-top: 2px;
 }
